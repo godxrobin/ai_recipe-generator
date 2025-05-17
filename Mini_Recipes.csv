@@ -1,0 +1,4 @@
+id,name,minutes,ingredients,steps,n_ingredients
+1,Scrambled Eggs,5,"[""eggs"", ""butter"", ""salt""]","[""Beat eggs"", ""Melt butter in pan"", ""Cook eggs on low heat""]",3
+2,Pasta with Tomato Sauce,20,"[""pasta"", ""tomatoes"", ""garlic"", ""olive oil""]","[""Boil pasta"", ""Saute garlic"", ""Add tomatoes"", ""Mix with pasta""]",4
+3,Chicken Salad,15,"[""chicken"", ""lettuce"", ""tomatoes"", ""cucumber"", ""olive oil""]","[""Cook chicken"", ""Chop vegetables"", ""Mix ingredients"", ""Add dressing""]",5
